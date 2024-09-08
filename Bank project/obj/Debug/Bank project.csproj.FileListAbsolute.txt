@@ -1,0 +1,237 @@
+C:\Users\Asus\source\repos\Bank project\Bank project\bin\Debug\Bank project.exe.config
+C:\Users\Asus\source\repos\Bank project\Bank project\bin\Debug\Bank project.exe
+C:\Users\Asus\source\repos\Bank project\Bank project\bin\Debug\Bank project.pdb
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank project.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank_project.Form1.resources
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank_project.Properties.Resources.resources
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank project.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank project.exe
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank project.pdb
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank_project.Form2.resources
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank_project.Form3.resources
+C:\Users\Asus\source\repos\Bank project\Bank project\obj\Debug\Bank_project.Form4.resources
+D:\Bank project\Bank project\bin\Debug\Bank project.exe.config
+D:\Bank project\Bank project\bin\Debug\Bank project.exe
+D:\Bank project\Bank project\bin\Debug\Bank project.pdb
+D:\Bank project\Bank project\obj\Debug\Bank project.csproj.AssemblyReference.cache
+D:\Bank project\Bank project\obj\Debug\Bank project.csproj.SuggestedBindingRedirects.cache
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form1.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form2.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form3.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form4.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Properties.Resources.resources
+D:\Bank project\Bank project\obj\Debug\Bank project.csproj.GenerateResource.cache
+D:\Bank project\Bank project\obj\Debug\Bank project.csproj.CoreCompileInputs.cache
+D:\Bank project\Bank project\obj\Debug\Bank project.exe
+D:\Bank project\Bank project\obj\Debug\Bank project.pdb
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form5.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form6.resources
+D:\Bank project\Bank project\bin\Debug\BouncyCastle.Crypto.dll
+D:\Bank project\Bank project\bin\Debug\Google.Protobuf.dll
+D:\Bank project\Bank project\bin\Debug\K4os.Compression.LZ4.dll
+D:\Bank project\Bank project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Bank project\Bank project\bin\Debug\K4os.Hash.xxHash.dll
+D:\Bank project\Bank project\bin\Debug\MySql.Data.dll
+D:\Bank project\Bank project\bin\Debug\System.Buffers.dll
+D:\Bank project\Bank project\bin\Debug\System.IO.Pipelines.dll
+D:\Bank project\Bank project\bin\Debug\System.Memory.dll
+D:\Bank project\Bank project\bin\Debug\System.Numerics.Vectors.dll
+D:\Bank project\Bank project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bank project\Bank project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Bank project\Bank project\bin\Debug\BouncyCastle.Crypto.xml
+D:\Bank project\Bank project\bin\Debug\Google.Protobuf.pdb
+D:\Bank project\Bank project\bin\Debug\Google.Protobuf.xml
+D:\Bank project\Bank project\bin\Debug\K4os.Compression.LZ4.xml
+D:\Bank project\Bank project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Bank project\Bank project\bin\Debug\K4os.Hash.xxHash.xml
+D:\Bank project\Bank project\bin\Debug\MySql.Data.xml
+D:\Bank project\Bank project\bin\Debug\System.Buffers.xml
+D:\Bank project\Bank project\bin\Debug\System.IO.Pipelines.xml
+D:\Bank project\Bank project\bin\Debug\System.Memory.xml
+D:\Bank project\Bank project\bin\Debug\System.Numerics.Vectors.xml
+D:\Bank project\Bank project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Bank project\Bank project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Bank project\Bank project\obj\Debug\Bank project.csproj.CopyComplete
+D:\Bank project\Bank project\bin\Debug\EntityFramework.dll
+D:\Bank project\Bank project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bank project\Bank project\bin\Debug\EntityFramework.xml
+D:\Bank project\Bank project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form7.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form8.resources
+D:\Bank project\Bank project\bin\Debug\Guna.UI2.dll
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form9.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form10.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form11.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form12.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form13.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form14.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form15.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form16.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form17.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form18.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form19.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form20.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form21.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form22.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form23.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form24.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form25.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form26.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form27.resources
+D:\Bank project\Bank project\obj\Debug\Bank_project.Form28.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\Bank project.exe.config
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\Bank project.exe
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\Bank project.pdb
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\EntityFramework.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\Google.Protobuf.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\Guna.UI2.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\MySql.Data.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.Buffers.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.Memory.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\EntityFramework.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\Google.Protobuf.pdb
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\Google.Protobuf.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\MySql.Data.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.Buffers.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.Memory.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank project.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form1.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form10.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form11.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form12.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form13.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form14.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form15.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form16.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form17.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form18.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form19.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form2.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form20.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form21.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form22.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form23.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form24.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form25.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form26.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form27.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form28.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form3.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form4.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form5.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form6.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form7.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form8.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form9.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank project.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank project.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank project.exe
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank project.pdb
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form29.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form30.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form31.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form32.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form33.resources
+C:\Users\Asus\OneDrive\Documents\New folder\Bank project\obj\Debug\Bank_project.Form34.resources
+E:\Banking System (CW)\Bank project\bin\Debug\Bank project.exe.config
+E:\Banking System (CW)\Bank project\bin\Debug\Bank project.exe
+E:\Banking System (CW)\Bank project\bin\Debug\Bank project.pdb
+E:\Banking System (CW)\Bank project\bin\Debug\BouncyCastle.Crypto.dll
+E:\Banking System (CW)\Bank project\bin\Debug\EntityFramework.dll
+E:\Banking System (CW)\Bank project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Banking System (CW)\Bank project\bin\Debug\Google.Protobuf.dll
+E:\Banking System (CW)\Bank project\bin\Debug\Guna.UI2.dll
+E:\Banking System (CW)\Bank project\bin\Debug\K4os.Compression.LZ4.dll
+E:\Banking System (CW)\Bank project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Banking System (CW)\Bank project\bin\Debug\K4os.Hash.xxHash.dll
+E:\Banking System (CW)\Bank project\bin\Debug\MySql.Data.dll
+E:\Banking System (CW)\Bank project\bin\Debug\System.Buffers.dll
+E:\Banking System (CW)\Bank project\bin\Debug\System.IO.Pipelines.dll
+E:\Banking System (CW)\Bank project\bin\Debug\System.Memory.dll
+E:\Banking System (CW)\Bank project\bin\Debug\System.Numerics.Vectors.dll
+E:\Banking System (CW)\Bank project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Banking System (CW)\Bank project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Banking System (CW)\Bank project\bin\Debug\BouncyCastle.Crypto.xml
+E:\Banking System (CW)\Bank project\bin\Debug\EntityFramework.xml
+E:\Banking System (CW)\Bank project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Banking System (CW)\Bank project\bin\Debug\Google.Protobuf.pdb
+E:\Banking System (CW)\Bank project\bin\Debug\Google.Protobuf.xml
+E:\Banking System (CW)\Bank project\bin\Debug\K4os.Compression.LZ4.xml
+E:\Banking System (CW)\Bank project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Banking System (CW)\Bank project\bin\Debug\K4os.Hash.xxHash.xml
+E:\Banking System (CW)\Bank project\bin\Debug\MySql.Data.xml
+E:\Banking System (CW)\Bank project\bin\Debug\System.Buffers.xml
+E:\Banking System (CW)\Bank project\bin\Debug\System.IO.Pipelines.xml
+E:\Banking System (CW)\Bank project\bin\Debug\System.Memory.xml
+E:\Banking System (CW)\Bank project\bin\Debug\System.Numerics.Vectors.xml
+E:\Banking System (CW)\Bank project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Banking System (CW)\Bank project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Banking System (CW)\Bank project\obj\Debug\Bank project.csproj.AssemblyReference.cache
+E:\Banking System (CW)\Bank project\obj\Debug\Bank project.csproj.SuggestedBindingRedirects.cache
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form1.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form10.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form11.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form12.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form13.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form14.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form15.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form16.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form17.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form18.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form19.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form2.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form20.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form21.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form22.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form23.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form24.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form25.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form26.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form27.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form28.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form29.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form3.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form30.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form31.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form32.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form33.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form34.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form4.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form5.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form6.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form7.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form8.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form9.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Properties.Resources.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank project.csproj.GenerateResource.cache
+E:\Banking System (CW)\Bank project\obj\Debug\Bank project.csproj.CoreCompileInputs.cache
+E:\Banking System (CW)\Bank project\obj\Debug\Bank project.csproj.CopyComplete
+E:\Banking System (CW)\Bank project\obj\Debug\Bank project.exe
+E:\Banking System (CW)\Bank project\obj\Debug\Bank project.pdb
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form35.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form36.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form37.resources
+E:\Banking System (CW)\Bank project\obj\Debug\Bank_project.Form38.resources
